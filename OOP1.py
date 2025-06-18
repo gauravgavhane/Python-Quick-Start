@@ -21,6 +21,7 @@ def main():
     Output = obj.Subtraction()
     print("Subtraction is ",Output)
 
+    objX = Arithmatic(21,20)
 
 if __name__ == "__main__":
     print("Inside starter")
